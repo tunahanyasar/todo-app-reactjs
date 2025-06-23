@@ -1,5 +1,7 @@
 # 📝 Todo App | React + Vite
 
+[🇬🇧 İngilizce README için tıklayın](./README.md)
+
 *Oluşturulma Tarihi : 26 Nisan 2025*
 
 Basit ve kullanıcı dostu bir todo uygulamasıdır. React ve Vite kullanılarak geliştirilmiştir.
