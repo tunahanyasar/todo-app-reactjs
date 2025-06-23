@@ -12,7 +12,7 @@ A simple and user-friendly todo application built with React and Vite.
 
 ## 🌐 Live Demo
 
-Visit the live site: [Todo App | React](https://survey-form-html-psi.vercel.app/)
+Visit the live site : [Todo App | React](https://todo-app-reactjs-flame.vercel.app/)
 
 ---
 

@@ -12,7 +12,7 @@ Basit ve kullanıcı dostu bir todo uygulamasıdır. React ve Vite kullanılarak
 
 ## 🌐 Canlı Demo
 
-Canlı siteyi ziyaret edin: [Todo App | React](https://survey-form-html-psi.vercel.app/)
+Canlı siteyi ziyaret edin : [Todo App | React](https://todo-app-reactjs-flame.vercel.app/)
 
 ---
 ## :computer: Kurulum ve Kullanım
