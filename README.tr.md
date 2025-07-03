@@ -43,6 +43,26 @@ Uygulamayı açmak için tarayıcınızda `http://localhost:5173` adresine gidin
 
 ---
 
+## 🎮 Nasıl Kullanılır?
+
+1. Todo Ekleme:
+   - Input alanına görev yazın
+   - Enter tuşuna basın veya ekle butonuna tıklayın
+
+2. Todo İşlemleri:
+   - Tamamlamak için checkbox'a tıklayın
+   - Düzenlemek için çift tıklayın
+   - Silmek için X butonuna tıklayın
+
+3. Filtreleme:
+   - All: Tüm todoları gösterir
+   - Active: Tamamlanmamış todoları gösterir
+   - Completed: Tamamlanmış todoları gösterir
+
+4. Toplu İşlemler:
+   - Clear completed: Tamamlanmış todoları sil
+---
+
 ## 🗂️ Proje Yapısı
 
 ```
@@ -137,42 +157,6 @@ todo-app-reactjs/
 * State Management
 
 ---
-# :paperclip: Sayfa Çıktıları
-
-### Fullpage
-![Fullpage](./src/assets/screenshots/fullpage.png)
-
-### Active Todos
-![Active](./src/assets/screenshots/active-todo.png)
-
-### Complated Todos
-![Complated](./src/assets/screenshots/complated-todo.png)
-
-### Edit Todos
-![Edit](./src/assets/screenshots/edit-todo.png)
-
----
-
-## 🎮 Nasıl Kullanılır?
-
-1. Todo Ekleme:
-   - Input alanına görev yazın
-   - Enter tuşuna basın veya ekle butonuna tıklayın
-
-2. Todo İşlemleri:
-   - Tamamlamak için checkbox'a tıklayın
-   - Düzenlemek için çift tıklayın
-   - Silmek için X butonuna tıklayın
-
-3. Filtreleme:
-   - All: Tüm todoları gösterir
-   - Active: Tamamlanmamış todoları gösterir
-   - Completed: Tamamlanmış todoları gösterir
-
-4. Toplu İşlemler:
-   - Clear completed: Tamamlanmış todoları sil
-
----
 
 ## 🔍 Detaylı Açıklama
 
@@ -203,12 +187,28 @@ Bu proje, kullanıcıların günlük görevlerini kolayca yönetebilecekleri, ba
 - **Veri Kalıcılığı**: LocalStorage ile veriler kaybolmaz
 
 ---
+# :paperclip: Sayfa Çıktıları
 
-## 👤 İletişim
+### Fullpage
+![Fullpage](./src/assets/screenshots/fullpage.png)
+
+### Active Todos
+![Active](./src/assets/screenshots/active-todo.png)
+
+### Complated Todos
+![Complated](./src/assets/screenshots/complated-todo.png)
+
+### Edit Todos
+![Edit](./src/assets/screenshots/edit-todo.png)
+
+---
+
+## 📞 İletişim
 
 [Tunahan Yaşar](https://github.com/tunahanyasar)
 
-[LinkedIn](https://www.linkedin.com/in/tunahan-yasar/)
+* GitHub: [@tunahanyasar](https://github.com/tunahanyasar)
+* LinkedIn: [Tunahan Yaşar](https://www.linkedin.com/in/tunahan-yasar/) 
 
 ---
 

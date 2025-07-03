@@ -43,7 +43,26 @@ npm run dev
 Open your browser and go to `http://localhost:5173` to view the app.
 
 ---
+## 🎮 How to Use
 
+1. Add a Todo:
+   - Type your task in the input field
+   - Press Enter or click the add button
+
+2. Todo Operations:
+   - Click the checkbox to mark as completed
+   - Double-click to edit
+   - Click the X button to delete
+
+3. Filtering:
+   - All: Shows all todos
+   - Active: Shows uncompleted todos
+   - Completed: Shows completed todos
+
+4. Bulk Operations:
+   - Clear completed: Deletes all completed todos
+
+---
 ## 🗂️ Project Structure
 
 ```
@@ -138,42 +157,6 @@ todo-app-reactjs/
 * State Management
 
 ---
-# :paperclip: Screenshots
-
-### Fullpage
-![Fullpage](./src/assets/screenshots/fullpage.png)
-
-### Active Todos
-![Active](./src/assets/screenshots/active-todo.png)
-
-### Completed Todos
-![Completed](./src/assets/screenshots/complated-todo.png)
-
-### Edit Todos
-![Edit](./src/assets/screenshots/edit-todo.png)
-
----
-
-## 🎮 How to Use
-
-1. Add a Todo:
-   - Type your task in the input field
-   - Press Enter or click the add button
-
-2. Todo Operations:
-   - Click the checkbox to mark as completed
-   - Double-click to edit
-   - Click the X button to delete
-
-3. Filtering:
-   - All: Shows all todos
-   - Active: Shows uncompleted todos
-   - Completed: Shows completed todos
-
-4. Bulk Operations:
-   - Clear completed: Deletes all completed todos
-
----
 
 ## 🔍 Detailed Explanation
 
@@ -204,12 +187,28 @@ This project is a simple and user-friendly todo application that allows users to
 - **Data Persistence:** Todos are saved with LocalStorage
 
 ---
+# :paperclip: Screenshots
 
-## 👤 Contact
+### Fullpage
+![Fullpage](./src/assets/screenshots/fullpage.png)
+
+### Active Todos
+![Active](./src/assets/screenshots/active-todo.png)
+
+### Completed Todos
+![Completed](./src/assets/screenshots/complated-todo.png)
+
+### Edit Todos
+![Edit](./src/assets/screenshots/edit-todo.png)
+
+---
+
+## 📞 Contact
 
 [Tunahan Yaşar](https://github.com/tunahanyasar)
 
-[LinkedIn](https://www.linkedin.com/in/tunahan-yasar/)
+* GitHub: [@tunahanyasar](https://github.com/tunahanyasar)
+* LinkedIn: [Tunahan Yaşar](https://www.linkedin.com/in/tunahan-yasar/) 
 
 ---
 
