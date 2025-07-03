@@ -2,7 +2,7 @@
 
 [🇹🇷 Click for Turkish README](./README.tr.md)
 
-*Created: April 26, 2025*
+*Created on: April 26, 2025*
 
 A simple and user-friendly todo application built with React and Vite.
 * This project was developed as **Week-12 - Assignment-1 | Todo App** for the Patika Frontend Bootcamp.
